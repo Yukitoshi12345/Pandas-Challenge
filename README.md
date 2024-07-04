@@ -67,7 +67,7 @@ Scores by School Spending
 - Create a table that breaks down school performance based on average spending ranges (per student)
 - Use `pd.cut` to categorize spending based on the bins.
 
-Use the scores above to create a DataFrame called 
+Use the scores above to create a DataFrame called
 Include the following metrics in the table:
 - Average math score
 - Average reading score spending_summary.
