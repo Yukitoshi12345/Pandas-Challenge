@@ -1,6 +1,8 @@
 <h1 align = "center"> Pandas Challenge </h1>
 
+In this Pandas Challenge project, I conducted a comprehensive analysis of a district's educational performance using the Pandas library. The primary objective was to gain insights into various key metrics at both the district and school levels. I began with a high-level district summary that included the total number of unique schools, total students, total budget, average math and reading scores, and the percentages of students passing math, reading, and both subjects. This initial overview set the stage for a more granular examination of individual schools. For each school, I summarised critical metrics such as school type, total students, total school budget, per student budget, average math and reading scores, and the passing percentages for math, reading, and both subjects.
 
+Further analysis involved identifying the highest and lowest performing schools based on the overall passing percentage. Additionally, I explored average scores by grade level, providing insights into performance trends across 9th, 10th, 11th, and 12th grades. I also analysed school performance based on spending per student, categorising schools into spending ranges and examining the relationship between spending and performance. Moreover, I investigated how school size impacted performance by categorising schools into small, medium, and large sizes. Lastly, I explored performance differences based on school types (e.g., charter vs. district). Through this multifaceted analysis, I uncovered valuable insights and trends that could inform decision-making and policy development within the educational district.
 
 ## Table of Contents
 
